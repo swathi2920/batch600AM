@@ -1,0 +1,36 @@
+
+varible -- int x=88;
+		x=5;
+		
+Array --- int[] id={3,5,6,72}
+
+ collections:
+ -- can store multiple datatypes & multiple values / object.
+ -- manuplication methods
+ 
+ List --- interface
+ -- can store duplicate data , null, non-synchronized
+ 	classes:
+ 	-------
+ 	ArrayList --- read data only in forward direction
+ 			-- order of data stored is as per entry.
+ 			
+ 	LinkedList--- read data only in forward & backward direction
+ 
+ 
+ Set --- interface
+ --- can store only unique data,null,, non-synchronized
+	 classes:
+ 	-------
+ 	HashSet--- read data only in forward direction
+ 	 ---- data order is maintained by hash table --argorithim
+ 	 
+ 	LinkedHashSet-- read data only in forward & backward direction
+ 	TreeSet -- no null, synchronized
+ 	   --- order of data is in ascending order.
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	

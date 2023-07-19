@@ -1,0 +1,24 @@
+Compile time exception:---
+---------------------
+
+properties file
+
+
+Excel
+
+================
+properties file:-
+
+(.properties)
+KEY -VALUE pair
+java class -- read the data
+
+--------------
+
+Excel:--
+
+download apache poi jars
+https://poi.apache.org/download.html
+extract --- configure/ add the jars to the working project
+excel  - data
+java class -- read data

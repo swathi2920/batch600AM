@@ -1,0 +1,79 @@
+
+
+OOPs:--
+=========
+
+Abstraction
+Encapsulation
+Polymorphism
+Inheritance
+
+Abstraction:-
+------------
+RBI
+--- account()
+{.....}
+-- loan()
+{....}
+--- intrest();--- abstract
+
+ABCBank
+--- account()
+{.....}
+-- loan()
+{....}
+
+intrest()
+{....body...}
+
+HDFC
+===================
+
+Encapsulation--- hiding
+
+==================
+Polymorphism---
+
+static /compile time / overloading:--
+-------
+-- on a single class
+A class having many methods
+with same name
+differnt signature
+	-- no of parametrs
+	---parameter datatypes
+	--- position of datatypes
+
+Dynamic / Run time / overriding:---
+-----
+
+need 2 classes (parent -child)
+two classes having many methods
+with same name
+same signature
+
+=====================
+Inheritance:--
+
+Nested
+
+multiple -- no possible
+
+
+
+=======================================
+Exception handeling:---
+-----------
+
+ int[] x= {3,6,9,1}
+
+
+
+
+
+
+
+
+
+
+

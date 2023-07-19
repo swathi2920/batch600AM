@@ -1,0 +1,11 @@
+
+Java :---
+
+JDK --- jre + jvm
+
+class:--
+-------
+main method---- Run , object(constructors)
+user defined methods --- Logic
+variables --- store the data.
+constructors ---- intialize variables

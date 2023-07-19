@@ -1,0 +1,16 @@
+
+
+https://www.selenium.dev/
+
+download
+extract jars
+configure / add the  jar to the working project
+
+Browser drivers:-
+-------
+chrome ---https://chromedriver.chromium.org/downloads
+firefox --- https://github.com/mozilla/geckodriver/releases
+
+1. open browser--chrome
+2. open App
+3. functionlaity

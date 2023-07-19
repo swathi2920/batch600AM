@@ -1,0 +1,38 @@
+
+
+
+ Q. write a automation script for login on
+ app--- https://demo.guru99.com/test/newtours/
+ 
+ 
+ 
+ xpath:--
+ =========
+  plugin --- chrome / firefox
+  		chropath
+  		
+  		
+  Relative path:
+  ------------
+  //<tagname>[contains(text(),<'value'>)]
+  
+  //label[contains(text(),'Male')]
+  //button[contains(text(),'Log in')]
+  //h2[contains(text(),'connect and share with the people')]
+  
+  //a[contains(text(),'Forgotten ')]
+  
+  //button[text()='Log in']
+  //a[text()='Forgotten password?']
+  
+  
+  //input[@id='email']
+  //input[@name='email']
+  //img[@class='fb_logo _8ilh img']
+  //img[@alt='Facebook']
+  //h2[@class='_8eso']
+  
+  
+  Absolute path:
+  -----------
+  
